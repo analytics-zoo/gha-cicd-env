@@ -13,3 +13,4 @@ tensorboard
 jupyter
 pytest
 ray[default]==1.9.2
+pyarrow==4.0.1
