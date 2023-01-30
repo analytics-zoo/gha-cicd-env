@@ -12,3 +12,4 @@ SQLAlchemy==1.4.27
 scipy==1.5.4
 cloudpickle
 matplotlib
+grpcio==1.51.1
