@@ -1,5 +1,6 @@
 pytest==5.4.1
-prophet==1.0.1
+prophet==1.1
+holidays==0.24
 pmdarima==1.8.4
 tsfresh==0.17.0
 ray==1.9.2
