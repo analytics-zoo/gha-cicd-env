@@ -14,3 +14,4 @@ scipy==1.5.4
 cloudpickle
 matplotlib
 grpcio==1.53.0
+psutil==5.9.5
